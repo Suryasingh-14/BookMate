@@ -1,2 +1,0 @@
-# BookMate
-Book Recommendation System 
